@@ -1,0 +1,14 @@
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\bin\Debug\net8.0\1 Завдання.exe
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\bin\Debug\net8.0\1 Завдання.deps.json
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\bin\Debug\net8.0\1 Завдання.runtimeconfig.json
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\bin\Debug\net8.0\1 Завдання.dll
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\bin\Debug\net8.0\1 Завдання.pdb
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.AssemblyInfoInputs.cache
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.AssemblyInfo.cs
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.csproj.CoreCompileInputs.cache
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.dll
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\refint\1 Завдання.dll
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.pdb
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\1 Завдання.genruntimeconfig.cache
+C:\Users\shere\source\repos\45\Практична робота 3\Практична робота 3\obj\Debug\net8.0\ref\1 Завдання.dll
